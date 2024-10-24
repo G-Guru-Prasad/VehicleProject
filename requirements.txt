@@ -1,0 +1,10 @@
+django
+requests
+djangorestframework
+python-dotenv
+django-cors-headers
+# create a virtual environment
+#python -m venv venv
+
+# command to install required packages
+# pip install -r requirements.txt
