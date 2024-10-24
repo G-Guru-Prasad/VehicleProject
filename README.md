@@ -40,7 +40,7 @@ The **Vehicle Service System** is a full-stack web application designed to manag
 
 ### Clone the Repository
 ```bash
-git clone  https://github.com/G-Guru-Prasad/DeliveryManagement.git
+git clone  https://github.com/G-Guru-Prasad/VehicleProject.git
 cd vehicle-service-system
 ```
 
